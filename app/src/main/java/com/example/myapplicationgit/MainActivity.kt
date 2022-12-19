@@ -11,7 +11,6 @@ class MainActivity : AppCompatActivity() {
 
         Log.d("TAG","message")
 
-        Log.d("TAG","messageNew ")
 
     }
 }
